@@ -1,0 +1,10 @@
+C:\Users\Mautner\source\repos\Vrijeme\Vrijeme\bin\Debug\Vrijeme.exe.config
+C:\Users\Mautner\source\repos\Vrijeme\Vrijeme\bin\Debug\Vrijeme.exe
+C:\Users\Mautner\source\repos\Vrijeme\Vrijeme\bin\Debug\Vrijeme.pdb
+C:\Users\Mautner\source\repos\Vrijeme\Vrijeme\obj\Debug\Vrijeme.csproj.AssemblyReference.cache
+C:\Users\Mautner\source\repos\Vrijeme\Vrijeme\obj\Debug\Vrijeme.Form1.resources
+C:\Users\Mautner\source\repos\Vrijeme\Vrijeme\obj\Debug\Vrijeme.Properties.Resources.resources
+C:\Users\Mautner\source\repos\Vrijeme\Vrijeme\obj\Debug\Vrijeme.csproj.GenerateResource.cache
+C:\Users\Mautner\source\repos\Vrijeme\Vrijeme\obj\Debug\Vrijeme.csproj.CoreCompileInputs.cache
+C:\Users\Mautner\source\repos\Vrijeme\Vrijeme\obj\Debug\Vrijeme.exe
+C:\Users\Mautner\source\repos\Vrijeme\Vrijeme\obj\Debug\Vrijeme.pdb
